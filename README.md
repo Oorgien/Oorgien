@@ -2,12 +2,12 @@
 #### I am fifth year DS student and ML researcher/developer
 ![I am fifth year DS student and ML researcher/developer](https://i.ytimg.com/vi/7gkN4RPdReE/maxresdefault.jpg)
 
-I am a fifth-year data-science student at MIPT University, Python developer and researcher, and love Data science, algorithms and data structures.
+I am a fifth-year data-science student at MIPT University, Python developer and researcher, love Data science, algorithms and data structures.
 
 
 Skills:
 1) Data science: 
-Python, Pytorch, Theory of probability, Statistics
+CV, Python, Pytorch, Theory of probability, Statistics
 2) Big Data: 
 Pyspark, Hive, SQL, Kafka
 3) Others:
